@@ -13,3 +13,9 @@ Run the following command in your terminal :
 Run the following command in your terminal : 
 
     holijc {name of the country you want the holidays for}
+
+## How to uninstall
+
+Run the following command in your terminal : 
+
+    npm uninstall -g @jeanchristophem/holidates
